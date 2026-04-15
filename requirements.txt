@@ -2,3 +2,5 @@ pyTelegramBotAPI
 requests
 PyJWT
 flask
+psutil
+urllib3
