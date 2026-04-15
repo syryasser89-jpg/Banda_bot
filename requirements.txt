@@ -8,3 +8,4 @@ flask
 asyncio
 protobuf-decoder
 google-api-python-client
+pycryptodome
