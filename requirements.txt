@@ -1,7 +1,9 @@
 pyTelegramBotAPI
 requests
 PyJWT
-flask
 psutil
 urllib3
 protobuf
+flask
+asyncio
+protobuf-decoder
