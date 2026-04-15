@@ -4,3 +4,4 @@ PyJWT
 flask
 psutil
 urllib3
+protobuf
